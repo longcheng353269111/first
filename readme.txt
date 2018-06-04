@@ -5,4 +5,4 @@
 Git tracks changes
 my boss is rich and funny
 I love him
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
