@@ -3,7 +3,7 @@
 3.hahahh
 4.five times
 Git tracks changes
-my boss is rich and funny
+My boss is rich and funny
 I love him
 Creating a new branch is quick and simple.
 I lick Branch, do you?
